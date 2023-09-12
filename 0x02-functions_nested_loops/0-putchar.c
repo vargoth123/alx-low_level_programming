@@ -1,12 +1,9 @@
 #include "main.h"
-
 /**
  * main - main function
  * Return: always 0
  */
-
 int main(void)
-
 {
 	_putchar('_');
 	_putchar('p');
@@ -17,7 +14,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-			
 return (0);
-
 }
